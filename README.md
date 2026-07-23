@@ -1,87 +1,27 @@
-# 🇮🇳 Smart Travel India
-# AI Travel & Safety Recommendation System
+# 🇮🇳 Smart Travel India - AI Travel & Safety Recommendation System
 
-An AI-powered travel recommendation platform that helps users discover safe and suitable Indian destinations based on their interests, budget, duration, and preferred travel month.
+An AI-powered travel recommendation system for Indian destinations with personalized recommendations and safety analysis.
 
-The system combines destination matching, safety analysis, and personalized recommendations to help travelers plan safer journeys.
+## 🌐 Live Demo
 
----
+🚀 https://ai-travel-safety-recommendation-sys-gamma.vercel.app/
 
-# 🚀 Features
+## 📌 Overview
 
-## 🤖 AI-Based Recommendations
+Smart Travel India is an AI-based travel assistant that recommends safe and suitable destinations based on user preferences such as:
 
-- Content-based recommendation algorithm
-- Personalized destination matching
-- Interest-based travel suggestions
-- Budget-aware recommendations
+- Travel interests
+- Budget
+- Trip duration
+- Travel month
 
-## 🛡️ Travel Safety Analysis
+The system analyzes destination information and generates personalized recommendations with safety insights.
 
-Each destination provides:
+## ✨ Features
 
-- Safety score (0-100)
-- Crime risk analysis
-- Scam risk assessment
-- Crowd level prediction
-- Safety precautions and travel tips
-
-## 🧳 Smart Trip Planning
-
-- Best time to visit
-- Budget planning
-- Duration-based suggestions
-- Seasonal travel optimization
-
-## 🌍 Supported Destinations
-
-Currently includes:
-
-- Goa
-- Jaipur
-- Kerala
-- Rishikesh
-- Agra
-- Udaipur
-- Manali
-- Varanasi
-- Hampi
-- Mumbai
-
----
-
-# 🧠 How the AI Recommendation Algorithm Works
-
-The recommendation engine uses a weighted scoring approach:
-
-| Factor | Weight |
-|---|---:|
-| Interest Matching | 40% |
-| Budget Alignment | 25% |
-| Seasonal Optimization | 20% |
-| Safety Score | 15% |
-
-The final score ranks destinations according to user preferences and safety factors.
-
----
-
-# 🛠️ Tech Stack
-
-## Frontend
-
-- React 18
-- TypeScript
-- Tailwind CSS
-- Lucide React Icons
-
-## Development Tools
-
-- Node.js
-- npm
-- Git
-- GitHub
-- VS Code
-
----
-
-# 📂 Project Structure
+- 🤖 AI-based destination recommendation
+- 🛡️ Safety score prediction
+- 📊 Crime statistics and tourist review analysis
+- 🌦️ Seasonal travel optimization
+- 💰 Budget-based planning
+- 🗺️ Personalized travel suggestions
