@@ -1,5 +1,14 @@
-import React, { useState, useEffect } from 'react';
-import { MapPin, Shield, Calendar, DollarSign, Star, AlertTriangle, Sun, Cloud, Droplets, TrendingUp, Users, Clock, Heart, Camera, Mountain, Waves, Building2, Navigation } from 'lucide-react';
+import React, { useState } from 'react';
+
+import { 
+  Shield,
+  Calendar,
+  DollarSign,
+  Star,
+  AlertTriangle,
+  TrendingUp,
+  Camera
+} from 'lucide-react';
 interface Destination {
   id: number;
   name: string;
